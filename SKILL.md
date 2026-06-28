@@ -1,4 +1,4 @@
-# SKILL.md — ChatGPT-find-me
+# ChatGPT-find-me
 
 ## Name
 
